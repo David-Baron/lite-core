@@ -1,0 +1,17 @@
+{
+    "name": "david-baron/lite-core",
+    "description": "Lite php framework",
+    "type": "framework",
+    "license": "proprietary",
+    "authors": [{
+        "name": "David Baron",
+        "email": "davidbaron@mycodingsoft.com"
+    }],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Lite\\Core\\": "src/"
+        }
+    }
+}
