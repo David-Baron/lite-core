@@ -1,0 +1,3 @@
+# lite-core
+
+Lite framework
